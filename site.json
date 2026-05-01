@@ -1,0 +1,53 @@
+{
+  "site_name": "First Name",
+  "site_type": "Current Title",
+  "tagline": "Topic A and Topic B",
+  "layout": "classic",
+  "profile_image": "assets/images/profile-placeholder.svg",
+  "hero_image": "assets/images/hero-ocean.svg",
+  "footer_text": "© 2026 First Name",
+  "pages": [
+    {
+      "slug": "index",
+      "title": "Home",
+      "source": "home.md",
+      "nav": "Home",
+      "layout": "sidebar"
+    },
+    {
+      "slug": "now",
+      "title": "Now",
+      "source": "now.md",
+      "nav": "Now",
+      "layout": "split"
+    },
+    {
+      "slug": "research",
+      "title": "Research",
+      "source": "research.md",
+      "nav": "Research",
+      "layout": "cards"
+    },
+    {
+      "slug": "projects",
+      "title": "Projects",
+      "source": "projects.md",
+      "nav": "Projects",
+      "layout": "cards"
+    },
+    {
+      "slug": "cv",
+      "title": "CV",
+      "source": "cv.md",
+      "nav": "CV",
+      "layout": "minimal"
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "source": "contact.md",
+      "nav": "Contact",
+      "layout": "sidebar"
+    }
+  ]
+}
