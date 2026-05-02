@@ -32,7 +32,7 @@ You have two choices.
 
 #### Option A: Personal Website
 
-Use this if you want your website at:
+If you want your website at:
 
 ```text
 https://YOUR-USERNAME.github.io/
@@ -52,7 +52,7 @@ pkjr002.github.io
 
 #### Option B: Project Website
 
-Use this if you want your website at:
+If you want your website at:
 
 ```text
 https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
@@ -173,6 +173,8 @@ or:
 ```text
 https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
 ```
+
+---
 
 ## Editing Layouts
 
