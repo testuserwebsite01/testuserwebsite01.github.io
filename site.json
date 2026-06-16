@@ -1,11 +1,11 @@
 {
-  "site_name": "First Name",
-  "site_type": "Current Title",
-  "tagline": "Topic A and Topic B",
+  "site_name": "Praveen Kumar",
+  "site_type": "Postdoctoral Associate",
+  "tagline": "Sea level projections and Uncertainty",
   "layout": "classic",
-  "profile_image": "assets/images/profile-placeholder.svg",
+  "profile_image": "assets/images/JuneBugBeachWalk1.jpeg",
   "hero_image": "assets/images/hero-ocean.svg",
-  "footer_text": "© 2026 First Name",
+  "footer_text": "© 2026 Praveen Kumar",
   "pages": [
     {
       "slug": "index",
